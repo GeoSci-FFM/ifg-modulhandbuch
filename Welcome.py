@@ -34,8 +34,8 @@ with st.expander(':orange[Haftungsausschluss]'):
 ''')
 
 st.warning('''
-    :orange[Das digitale Modulhandbuch ging Anfang März online und damit in eine beta-Testphase bis Sommer. Bis dahin bitten wir um Verständnis, sollte es anfänglich noch zu kleineren Probleme kommen. Solche können sehr gerne ins Feedback-Formular, zu finden über die Seitenleiste, mitgeteilt werden.]
-''')
+    :orange[Das digitale Modulhandbuch ging Anfang März online und damit in eine beta-Testphase bis Sommer. Bis dahin bitten wir um Verständnis, sollte es anfänglich noch zu kleineren Probleme kommen. Solche können sehr gerne ins Feedback-Formular, zu finden in der Seitenleiste, mitgeteilt werden.]
+''', icon="⚠️")
 
 st.subheader(''':blue[Kurzanleitung]''')
 st.markdown('''
