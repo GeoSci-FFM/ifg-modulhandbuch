@@ -33,7 +33,9 @@ with st.expander(':orange[Haftungsausschluss]'):
     Alle weiteren Informationen zum Studium gibt es [hier](https://www.uni-frankfurt.de/45741218/Willkommen_am_Institut_für_Geowissenschaften?legacy_request=1).
 ''')
 
-
+st.warning('''
+    :orange[Das digitale Modulhandbuch ging Anfang März online und damit in eine beta-Testphase bis Sommer. Bis dahin bitten wir um Verständnis, sollte es anfänglich noch zu kleineren Probleme kommen. Solche können sehr gerne ins Feedback-Formular, zu finden über die Seitenleiste, mitgeteilt werden.]
+''')
 
 st.subheader(''':blue[Kurzanleitung]''')
 st.markdown('''
@@ -50,5 +52,5 @@ st.markdown('''
             Wird die Maus über eine Abbildung beweget, erscheint rechts oben neben dem Bild ein icon, das, angeklickt, die Abbildung vergrößert.
             ''')
 
-st.subheader(''':blue[Feedback, Fragen & Fehlerkorrektur ...]''')
-st.markdown('''... und weiteres am Besten ins Feedback-Formular schreiben, s. links ganz unten.''')
+st.subheader(''':blue[Feedback oder Fragen]''')
+st.markdown('''Dazu bitte das Feedback-Formular, erreichbar über die Seitenleiste links, verwenden.''')
