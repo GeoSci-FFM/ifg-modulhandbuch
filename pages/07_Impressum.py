@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("Impressum")
 
-st.write('''Die Website wird als Diensteanbieterin im Rahmen des Kooperationsprojekts verantwortet von:  
+st.write('''Die Website wird als Diensteanbieterin verantwortet von:  
 Johann Wolfgang Goethe-Universität Frankfurt  
 Theodor-W.-Adorno-Platz 1  
 60323 Frankfurt am Main  
@@ -25,7 +25,8 @@ Verantwortliche Person welche diese Website koordiniert:
 Dominik Hezel  
 Institut für Geowissenschaften  
 an der Goethe-Universität Frankfurt  
-Adresse Institut  
+Altenhöferallee 1  
+60438 Frankfurt am Main  
 Kontakt-Email: dominik.hezel@em.uni-frankfurt.de  
 Kontakt-Telefon: +49 69 798 40122
 
