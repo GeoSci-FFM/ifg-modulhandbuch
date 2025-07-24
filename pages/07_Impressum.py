@@ -1,5 +1,8 @@
 import streamlit as st
 
+st.logo('images/Goethe-Logo.jpg')
+st.sidebar.image('images/Goethe-Logo.jpg')
+
 st.title("Impressum")
 
 st.write('''Die Website wird als Diensteanbieterin verantwortet von:  
